@@ -5,7 +5,7 @@ using System.Security.Policy;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-//nota x
+//nota x2
 namespace EDDemo.Estructuras_No_Lineales
 {
     public class ArbolBusqueda
